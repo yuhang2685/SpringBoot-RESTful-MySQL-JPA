@@ -7,9 +7,16 @@ Introduction:
 In this demo we supply a quick-start code base with explanation for constructing a REST service with JPA.
 
 Overview:
-In this demo we covered the use of some new stuffs, i.e., @Entity, @Id, dependency "jackson" and JPA, "Optional<>" type,
-content negotiation, interface "CrudRepository" and "JpaRepository", CRUD JPA methods, customized JPA methods, 
-user defined JPA methods by DB Query, DB connection configuration in application.properties.
+In this demo we covered the use of some new stuffs, 
+i.e., DB configuration in application.properties, 
+JPA interfaces "CrudRepository" and "JpaRepository",
+@Entity, @Id,
+CRUD JPA methods, 
+customized JPA methods, 
+user defined JPA methods by DB Query, 
+dependency "jackson" for XML format, 
+content negotiation,  
+"Optional<>" type.
 
 Future Work: Replace JPA with DATA REST.
 
