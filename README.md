@@ -9,6 +9,7 @@ In this demo we supply a quick-start code base with explanation for constructing
 Overview:
 In this demo we covered the use of some new stuffs, 
 i.e., 
+- Dependency "spring-boot-starter-data-jpa"
 - DB configuration in application.properties
 - JPA interfaces "CrudRepository" and "JpaRepository"
 - @Entity
